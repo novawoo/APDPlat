@@ -70,3 +70,4 @@ APDPlat_Web/nb-configuration.xml
 .project
 target/
 p
+.java-version
